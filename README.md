@@ -20,7 +20,7 @@ Code in this repository was developed by Haoxian He (https://bitbucket.org/ethan
 - Install `pandas` - `pip install pandas`
 - Install `nltk` - `pip install nltk`
 - Download NLTK Corpus
-    - open py interpreter `pyton`
+    - open py interpreter `python`
     - import the toolkit `import nltk`
     - open the download ui `nltk.download()`
     - More info [Docs](http://www.nltk.org/data.html)
